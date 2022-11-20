@@ -1,12 +1,10 @@
 package com.emmanuelamet.courseapi.controllers;
 
-import com.emmanuelamet.courseapi.Topic;
+import com.emmanuelamet.courseapi.model.Topic;
 import com.emmanuelamet.courseapi.service.TopicService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-import java.sql.Array;
-import java.util.Arrays;
 import java.util.List;
 
 @RestController

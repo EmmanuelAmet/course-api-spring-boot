@@ -1,6 +1,6 @@
 package com.emmanuelamet.courseapi.service;
 
-import com.emmanuelamet.courseapi.Topic;
+import com.emmanuelamet.courseapi.model.Topic;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

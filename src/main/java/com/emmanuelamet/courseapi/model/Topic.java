@@ -1,4 +1,4 @@
-package com.emmanuelamet.courseapi;
+package com.emmanuelamet.courseapi.model;
 
 public class Topic {
     private String id;
